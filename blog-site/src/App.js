@@ -14,7 +14,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+           Cate loves Brian or is it the other way
+           
         </a>
       </header>
     </div>
